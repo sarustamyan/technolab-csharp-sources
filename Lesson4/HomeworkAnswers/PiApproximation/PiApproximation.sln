@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiApproximation", "PiApproximation.csproj", "{ECCDC9E0-3458-4D18-8D98-8EEFF9367B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECCDC9E0-3458-4D18-8D98-8EEFF9367B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCDC9E0-3458-4D18-8D98-8EEFF9367B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCDC9E0-3458-4D18-8D98-8EEFF9367B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCDC9E0-3458-4D18-8D98-8EEFF9367B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A153C9C4-24FC-48CB-B8E1-C676585F266F}
+	EndGlobalSection
+EndGlobal
