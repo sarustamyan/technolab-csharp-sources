@@ -21,6 +21,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxInArray", "Lesson4\MaxIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowerCase", "Lesson4\LowerCase\LowerCase.csproj", "{10834EBE-9FE1-4E95-87DC-B2C20C6C10D1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson5", "Lesson5", "{FCD258E8-656E-48AA-B010-282086191E9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysInMonth", "Lesson5\DaysInMonth\DaysInMonth.csproj", "{A3E5E564-07D1-4837-87AD-422BC0EB7AA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Average", "Lesson5\Average\Average.csproj", "{6EFD7C81-A2B7-47E3-BE2A-CB6243C38AF9}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfSpaces", "Lesson4\NumberOfSpaces\NumberOfSpaces.csproj", "{F508FA49-6D2F-4EAE-BB81-1063DADF6A12}"
 EndProject
 Global
