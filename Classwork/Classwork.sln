@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grades", "Lesson2\Grades\Gr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum", "Lesson2\Sum\Sum.csproj", "{405D34D8-0DD1-4934-9219-DFD7F06F1B37}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson3", "Lesson3", "{04552DCC-69FF-4325-8239-F6226A2480B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumber", "Lesson3\PrimeNumber\PrimeNumber.csproj", "{45879B90-96F8-4084-BE3B-5C838F286C97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
